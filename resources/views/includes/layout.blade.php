@@ -2,7 +2,7 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-    <title>CadSUAS</title>
+    <title>Renda Emergencial</title>
 
     <link rel="stylesheet" href="/css/style.css">
 
